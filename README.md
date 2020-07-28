@@ -19,3 +19,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Function Showcase
 
+![Can Add](https://github.com/happyren/burger-builder/blob/master/README.resource/can-add-order.gif)
+
+Adding filling ingredients and order summary.
+
+![Can Continue](https://github.com/happyren/burger-builder/blob/master/README.resource/can-purchase)
+
+Removing filling ingredients and continue purchase.
