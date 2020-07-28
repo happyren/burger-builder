@@ -23,6 +23,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Adding filling ingredients and order summary.
 
-![Can Continue](https://github.com/happyren/burger-builder/blob/master/README.resource/can-purchase)
+![Can Continue](https://github.com/happyren/burger-builder/blob/master/README.resource/can-purchase.gif)
 
 Removing filling ingredients and continue purchase.
